@@ -2,3 +2,5 @@
 AzerothCore Merge SQL Scripts.
 
 Put in the directory: /data/sql/
+
+and Run :]
